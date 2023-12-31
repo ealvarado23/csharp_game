@@ -1,0 +1,15 @@
+D:\Projects\csharp_game\csharp_game\consoleapp\bin\Debug\net6.0\ConsoleApp.exe
+D:\Projects\csharp_game\csharp_game\consoleapp\bin\Debug\net6.0\ConsoleApp.deps.json
+D:\Projects\csharp_game\csharp_game\consoleapp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+D:\Projects\csharp_game\csharp_game\consoleapp\bin\Debug\net6.0\ConsoleApp.dll
+D:\Projects\csharp_game\csharp_game\consoleapp\bin\Debug\net6.0\ConsoleApp.pdb
+D:\Projects\csharp_game\csharp_game\consoleapp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\Projects\csharp_game\csharp_game\consoleapp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\csharp_game\csharp_game\consoleapp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Projects\csharp_game\csharp_game\consoleapp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+D:\Projects\csharp_game\csharp_game\consoleapp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\csharp_game\csharp_game\consoleapp\obj\Debug\net6.0\ConsoleApp.dll
+D:\Projects\csharp_game\csharp_game\consoleapp\obj\Debug\net6.0\refint\ConsoleApp.dll
+D:\Projects\csharp_game\csharp_game\consoleapp\obj\Debug\net6.0\ConsoleApp.pdb
+D:\Projects\csharp_game\csharp_game\consoleapp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+D:\Projects\csharp_game\csharp_game\consoleapp\obj\Debug\net6.0\ref\ConsoleApp.dll
